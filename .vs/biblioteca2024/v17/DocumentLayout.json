@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dorcas Chagas\\Desktop\\trabalhoFaculdadegustavo\\biblioteca2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dorcas Chagas\\Desktop\\trabalhoFaculdadegustavo\\biblioteca2024\\biblioteca2024\\Data\\DALBiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:biblioteca2024\\Data\\DALBiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dorcas Chagas\\Desktop\\trabalhoFaculdadegustavo\\biblioteca2024\\biblioteca2024\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:biblioteca2024\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dorcas Chagas\\Desktop\\trabalhoFaculdadegustavo\\biblioteca2024\\biblioteca2024\\Model\\Livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:biblioteca2024\\Model\\Livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DALBiblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\Dorcas Chagas\\Desktop\\trabalhoFaculdadegustavo\\biblioteca2024\\biblioteca2024\\Data\\DALBiblioteca.cs",
+              "RelativeDocumentMoniker": "biblioteca2024\\Data\\DALBiblioteca.cs",
+              "ToolTip": "C:\\Users\\Dorcas Chagas\\Desktop\\trabalhoFaculdadegustavo\\biblioteca2024\\biblioteca2024\\Data\\DALBiblioteca.cs",
+              "RelativeToolTip": "biblioteca2024\\Data\\DALBiblioteca.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAEgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T22:41:46.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dorcas Chagas\\Desktop\\trabalhoFaculdadegustavo\\biblioteca2024\\biblioteca2024\\Program.cs",
+              "RelativeDocumentMoniker": "biblioteca2024\\Program.cs",
+              "ToolTip": "C:\\Users\\Dorcas Chagas\\Desktop\\trabalhoFaculdadegustavo\\biblioteca2024\\biblioteca2024\\Program.cs",
+              "RelativeToolTip": "biblioteca2024\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T22:41:47.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\Dorcas Chagas\\Desktop\\trabalhoFaculdadegustavo\\biblioteca2024\\biblioteca2024\\Model\\Livro.cs",
+              "RelativeDocumentMoniker": "biblioteca2024\\Model\\Livro.cs",
+              "ToolTip": "C:\\Users\\Dorcas Chagas\\Desktop\\trabalhoFaculdadegustavo\\biblioteca2024\\biblioteca2024\\Model\\Livro.cs",
+              "RelativeToolTip": "biblioteca2024\\Model\\Livro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T22:41:47.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

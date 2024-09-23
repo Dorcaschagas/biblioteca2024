@@ -1,0 +1,84 @@
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\biblioteca2024.exe
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\biblioteca2024.deps.json
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\biblioteca2024.runtimeconfig.json
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\biblioteca2024.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\biblioteca2024.pdb
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\obj\Debug\net6.0\biblioteca2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\obj\Debug\net6.0\biblioteca2024.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\obj\Debug\net6.0\biblioteca2024.AssemblyInfo.cs
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\obj\Debug\net6.0\biblioteca2024.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\obj\Debug\net6.0\biblioteca2024.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\obj\Debug\net6.0\refint\biblioteca2024.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\obj\Debug\net6.0\biblioteca2024.pdb
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\obj\Debug\net6.0\biblioteca2024.genruntimeconfig.cache
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\obj\Debug\net6.0\ref\biblioteca2024.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\obj\Debug\net6.0\biblioteca2024.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\biblioteca2024\biblioteca2024\obj\Debug\net6.0\biblioteca2024.csproj.CopyComplete
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\obj\Debug\net6.0\biblioteca2024.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\obj\Debug\net6.0\refint\biblioteca2024.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\obj\Debug\net6.0\biblioteca2024.pdb
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\biblioteca2024.exe
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\biblioteca2024.deps.json
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\biblioteca2024.runtimeconfig.json
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\biblioteca2024.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\biblioteca2024.pdb
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\System.Data.SQLite.EF6.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\obj\Debug\net6.0\biblioteca2024.csproj.AssemblyReference.cache
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\obj\Debug\net6.0\biblioteca2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\obj\Debug\net6.0\biblioteca2024.AssemblyInfoInputs.cache
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\obj\Debug\net6.0\biblioteca2024.AssemblyInfo.cs
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\obj\Debug\net6.0\biblioteca2024.csproj.CoreCompileInputs.cache
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\obj\Debug\net6.0\bibliote.6617DCE7.Up2Date
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\obj\Debug\net6.0\biblioteca2024.genruntimeconfig.cache
+C:\Users\Dorcas Chagas\Desktop\trabalhoFaculdadegustavo\biblioteca2024\biblioteca2024\obj\Debug\net6.0\ref\biblioteca2024.dll
